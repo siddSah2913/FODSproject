@@ -1,7 +1,6 @@
 # ============================================================
 #   STUDENT PROFILE MANAGEMENT SYSTEM
 #   FODS Final Assessment Project
-#   Module: UFCFK1-15-0 — Fundamentals of Data Science
 # ============================================================
 
 import os
